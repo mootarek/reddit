@@ -1,0 +1,15 @@
+export const APP_LOAD = 'APP_LOAD';
+export const HOME_PAGE_LOADED = 'HOME_PAGE_LOADED';
+export const HOME_PAGE_UNLOADED = 'HOME_PAGE_UNLOADED';
+export const BOARD_PAGE_LOADED = 'BOARD_PAGE_LOADED';
+export const BOARD_PAGE_UNLOADED = 'BOARD_PAGE_UNLOADED';
+export const CHECK_IF_BOARD = 'CHECK_IF_BOARD';
+export const GET_FOR_PREVIEW = 'GET_FOR_PREVIEW';
+export const THREAD_SUBMITTED = 'THREAD_SUBMITTED';
+export const REPORT_THREAD = 'REPORT_THREAD';
+export const DELETE_THREAD = 'DELETE_THREAD';
+export const ADD_REPLY = 'ADD_REPLY';
+export const REPORT_REPLY = 'REPORT_REPLY';
+export const DELETE_REPLY = 'DELETE_REPLY';
+export const ASYNC_START = 'ASYNC_START';
+export const ASYNC_END = 'ASYNC_END';
